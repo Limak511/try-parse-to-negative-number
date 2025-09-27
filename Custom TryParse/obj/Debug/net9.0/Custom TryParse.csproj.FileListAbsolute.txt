@@ -1,0 +1,42 @@
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.exe
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.deps.json
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.runtimeconfig.json
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.dll
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.pdb
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.AssemblyInfoInputs.cache
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.AssemblyInfo.cs
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.dll
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\refint\Custom TryParse.dll
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.pdb
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.genruntimeconfig.cache
+C:\Users\Yung Szopen\source\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\ref\Custom TryParse.dll
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.exe
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.deps.json
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.runtimeconfig.json
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.dll
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.pdb
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.GeneratedMSBuildEditorConfig.editorconfig
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.AssemblyInfoInputs.cache
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.AssemblyInfo.cs
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.csproj.CoreCompileInputs.cache
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.dll
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\refint\Custom TryParse.dll
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.pdb
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.genruntimeconfig.cache
+H:\Format - 16.09.25\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\ref\Custom TryParse.dll
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.exe
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.deps.json
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.runtimeconfig.json
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.dll
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\bin\Debug\net9.0\Custom TryParse.pdb
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.AssemblyInfo.cs
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.dll
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\refint\Custom TryParse.dll
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.pdb
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\Custom TryParse.genruntimeconfig.cache
+C:\Users\kamil\Desktop\repos\Custom TryParse\Custom TryParse\obj\Debug\net9.0\ref\Custom TryParse.dll
